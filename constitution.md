@@ -41,6 +41,7 @@ Breaching a rule or engaging in disruptive actions follows a 3 strike system.
 1. Verbal Warning from Present Moderator
 2. Verbal Warning from Manager
 3. Minimum 2 Month Ban
+
 ### 4.4.3 - Gross Misconduct
 A member may be removed without warning by a resolution of the Executive Board if they have grossly breached a rule or engaged in repeated disruptive actions.
 
