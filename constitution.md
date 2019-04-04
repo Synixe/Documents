@@ -131,6 +131,6 @@ Voting on confirming Constitutional Amendments can occur when all Managers and t
 Voting on proposals will take place at meeting. A majority vote of the Executive Board is required to pass any proposal. The proposal takes effect after receiving approval from the Director of the Executive Board, or after a period of 14 days.
 
 ## 6.7 - Voting
-* Any Executive Member absent will be recoreded and will not be counted in the vote.
+* Any Executive Member absent will be recorded and will not be counted in the vote.
 * Any Executive Member can abstain from any vote and will not be counted.
 * Any Executive Member can motion to table a vote. A two thirds majority vote must pass to table.
