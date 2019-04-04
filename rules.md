@@ -1,4 +1,5 @@
 # Rules
+<hr/>
 
 # Rule 1 - General Operations
 1. Discord is the primary form of text communication and community organization.
@@ -7,12 +8,16 @@
 
 3. Discord Roles will be used as the primary system for designations.
 
+<hr/>
+
 # Rule 2 - Servers
 1. All dedicated servers used by the community will be hosted or approved by a member of the Executive Board.
 
 2. The TeamSpeak server IP address shall not be shared until required.
 
 3. All servers hosted by Synixe are for the exclusive use of members currently holding the designation of Active or have held the designation of Active in the previous 30 days unless access is granted by a member of the Executive Board.
+
+<hr/>
 
 # Rule 3 - Content
 Any content shared on any medium with the community is subject to moderation at the discretion of the Moderators. Repeated offenses result in a one week minimum ban from the applicable channels.
@@ -34,15 +39,21 @@ This includes but is not limited to:
 ## 3.3 - Reposting
 Reposting content that you have previously posted is not allowed and may be removed by a moderator.
 
+<hr/>
+
 # Rule 4 - Cheating and Exploiting
 1. Any deliberate action or attempt to enhance your game play or to give yourself an unfair advantage will not be tolerated and will result in a minimum of removal from the current game.
 2. Any modification of game files or additional modifications outside of what is required by Synixe will not be tolerated and will result in a minimum of removal from the current game.
 3. Any attempt to gain access to administrative tools will result in an immediate ban.
 
+<hr/>
+
 # Rule 5 - Dual Clanning
 1. Members of Synixe that hold a position on the Executive Board are asked to refrain from holding a leadership role in other Arma communities. If they wish to hold a leadership position in another community we ask that they resign from their position in Synixe.
 2. All members not on the Executive Board are free to have a leadership role in other communities.
 3. All members are free to participate in the event of other Arma communities.
+
+<hr/>
 
 # Rule 6 - Conduct
 All members of Synixe are expected to treat their fellow members in a considerate way at all times. Disagreements are fine, hostility is not. Disruptive behavior or any action that degrades the quality of the community for other members at the discretion of the Executive Board will not be tolerated.
@@ -57,6 +68,8 @@ Making a Travesty of a mission is any action that ruins the enjoyment of the mis
 
 Making a Travesty of a mission will result in a kick from the mission on the first occurance and a ban from the mission the second time. If this happens during three seperate missions you will be permanently banned.
 
+<hr/>
+
 # Rule 7 - Mission Making
 All missions used in sanctioned events must pass all Dynulo automated checks and meet one of the folling criteria:
 1. Made by a MissionMaker in Synixe
@@ -68,6 +81,8 @@ Timeslots for sanctioned events can be reserved in the `#missionmakers` channel.
 
 ## 7.2 - Campaigns
 There can only be a single campaign or persistent mission at one time. Executive Board approval is required to run a campaign. The primary Friday timeslot can not be used for campaigns.
+
+<hr/>
 
 # Rule 8 - Names
 1. Names can not be offensive in any way and are subject to Rule 4
