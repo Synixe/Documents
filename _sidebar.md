@@ -3,3 +3,4 @@
 * [Rules](/rules.md)
 * Committees
   * [Mod Review](/committees/modreview.md)
+  * [Documentation](/committees/documentation.md)
