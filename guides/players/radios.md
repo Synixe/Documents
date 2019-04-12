@@ -11,10 +11,10 @@ When interacting with any of the ACRE radios there are two different ways to bri
 
 # AN/PRC-343 Usage
 Need a brief here
-### Volume Control (Combine)
+### Volume Control
 Left clicking the volume knob increases the 343's volume by 10% to a maximum of 100% whilst right clicking will decrease by 10% to a minimum of 20% volume.
 
-### Channel & Block Control (Seek better formatting)
+### Channel & Block Control
 To change the channel you left click or right click (increase/decrease by 1) the Channel knob to cycle through the 16 channels.
 ![alt text](https://cdn.discordapp.com/attachments/386271418305871873/566169026359853069/107410_20190412192712_1.png)
 To change the block channel number you'll need to open the 343's Handle (as shown in the photo)
