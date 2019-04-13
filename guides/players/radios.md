@@ -1,13 +1,34 @@
 # ACRE Radios
-This page will go over the basic concepts and operation of ACRE radios for the Synixe gaming community.
+This page will go over the basic mechanics and operation of ACRE radios for the Synixe gaming community.
 
 <hr/>
 
-# Basic Introduction and Concepts
-## Radio Ranges 
-## Terrain interference 
+# Mechanics
+## Proximity Speech 
+ACRE has a built in proximity speech slider allowing you to determine how far your voice should travel. The system has five volume states and starts in the middle state by default.
 
-## Controls
+| Volume state | Loud (m) | Quiet (m) | Barely audible (m)
+| --- | --- | --- | --- 
+| 1/5 | 1 | 2 | 13
+| 2/5 | 3 | 15 | 55
+| 3/5 | 8 | 30 | 100
+| 4/5 | 12 | 45 | 145
+| 5/5 | 15 | 55 | 195 
+
+Holding down `tab` whilst scrolling wheeling up or down will adjust your speaking state. Scrolling up (up the slider) will make your voice travel further whilst scrolling down will make your voice quieter and travel shorter distances (down the slider). Once you've set your volume state you can let go `tab` until you want to change it again.  
+
+<!-- GIF demonstrating changing volume state here -->
+
+## Radio Ranges
+|     Radio    |  City Range  |  Perfect Range  |
+| :----------: | :----------: | :-------------: |
+|  AN/PRC-343  |     450m     |      850m       |
+|  AN/PRC-148  |     3-5km    |      5-7km      |
+|  AN/PRC-117F |    10-20km   |     Horizon     |
+
+## Terrain & Object Interference 
+
+# Controls
 Pressing `capslock` will start transmitting through the radio (indicated by a click) until you let go of `capslock`.
 
 When interacting with any of the ACRE radios there are two different ways to bring up their interface to change the channel:
