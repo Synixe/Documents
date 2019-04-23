@@ -60,7 +60,7 @@ Reposting content that you have previously posted is not allowed and may be remo
 <hr/>
 
 # Rule 6 - Conduct
-All members of Synixe are expected to treat their fellow members in a considerate way at all times. Disagreements are fine, hostility is not. Disruptive behavior or any action that degrades the quality of the community for other members at the discretion of the Executive Board will not be tolerated.
+All members of Synixe are expected to treat their fellow members in a considerate way at all times. Disagreements are fine, hostility is not. Disruptive behavior or any action that degrades the quality of the community for other members at the discretion of the Executive Board will not be tolerated and can be treated as a violation of Section 3.
 
 We are a casual realism unit. We have no attendance requirements, mandatory training or strict procedures. We do however expect that you take the mission seriously and attempt to complete objectives tactically.
 
