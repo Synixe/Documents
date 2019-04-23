@@ -39,6 +39,10 @@ This includes but is not limited to:
 ## 3.3 - Reposting
 Reposting content that you have previously posted is not allowed and may be removed by a moderator.
 
+## 3.4 - Use of Memes
+1. #memes is to be used as a place to post media content that is unrelated to converstations happening in other channels.
+2. Repeatedly posting content in violation of any rule under Section 3 will result in a minimum one week ban from #memes or the applicable channel.
+
 <hr/>
 
 # Rule 4 - Cheating and Exploiting
