@@ -86,6 +86,13 @@ Timeslots for sanctioned events can be reserved in the `#missionmakers` channel.
 ## 7.2 - Campaigns
 There can only be a single campaign or persistent mission at one time. Executive Board approval is required to run a campaign. The primary Friday timeslot can not be used for campaigns.
 
+## 7.3 - Training
+Any member may become a MakerInTraining after participating in at least 3 sanctioned events. They will be given access to the mission making resources and MissionMakers will help them learn how Synixe makes our missions.
+
+Once the Executive Board feel a MakerInTraining is ready to host a sanctioned event they can create a mission. It must be reviewed by atleast one MissionMaker and approved by a member of the Executive Board that is a MissionMaker before being hosted. At least 2 members of the Executive Board must be present at the event.
+
+After hosting a mission, a majority vote is required in a meeting of the Executive Board on whether the MakerInTraining will join the mission making team. If denied, they will remain in training and do another mission. If accepted, the Executive Board will announce the succession.
+
 <hr/>
 
 # Rule 8 - Names
