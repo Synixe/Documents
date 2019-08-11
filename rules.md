@@ -53,9 +53,9 @@ Reposting content that you have previously posted is not allowed and may be remo
 <hr/>
 
 # Rule 5 - Dual Clanning
-1. Members of Synixe that hold a position on the Executive Board are asked to refrain from holding a leadership role in other Arma communities. If they wish to hold a leadership position in another community we ask that they resign from their position in Synixe.
+1. Members of Synixe that hold a position on the Executive Board are asked to refrain from holding a leadership role in other communities. If they wish to hold a leadership position in another community we ask that they resign from their position in Synixe.
 2. All members not on the Executive Board are free to have a leadership role in other communities.
-3. All members are free to participate in the event of other Arma communities.
+3. All members are free to participate in the event of other communities.
 
 <hr/>
 
@@ -65,7 +65,7 @@ All members of Synixe are expected to treat their fellow members in a considerat
 We are a casual realism unit. We have no attendance requirements, mandatory training or strict procedures. We do however expect that you take the mission seriously and attempt to complete objectives tactically.
 
 ## 6.1 - Team Killing
-Intentional Team Killing is not tolerated at any time during any mission.
+Intentional Team Killing is not tolerated at any time.
 
 ## 6.2 - Making a Travesty
 Making a Travesty of a mission is any action that ruins the enjoyment of the mission for others.

@@ -27,8 +27,8 @@ A proposed action needing authorization from the Executive Board.
 # Section 4 - Membership
 
 ## 4.1 - Gaining Membership
-Synixe shall permit membership to anyone that wishes to join that is at least 13 years of age. 
-New members between the ages of 13-15 inclusive will be subject to a 3 month probabtion period during which they can be removed if they are not able to integrate into the community smoothly.
+Synixe shall permit membership to anyone that wishes to join that is at least 15 years of age. 
+New members between the ages of 15-17 inclusive will be subject to a 3 month probabtion period during which they can be removed if they are not able to integrate into the community smoothly.
 There is no limit to the number of members the organization can have and there is no limit in the duration a person may be a member of the organization.
 Upon a person joining Synixe they are given the designation of "New" in the organization's system for designations.
 
