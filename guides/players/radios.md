@@ -41,7 +41,7 @@ Pressing `alt + capslock` will transmit through the AN/PRC-177F.
 
 When using the radio a click sound will be played to indicate you are transmitting and in the bottom right of the screen an image will appear showing what channel you are transmitting to. To finish your transmission let go of `capslock`.
 
-When interacting with any of the ACRE radios there are two different ways to bring up their interface to change the channel / frequency:
+When interacting with ACRE radios there are two ways to bring up their interface to change the channel / frequency:
 * Double clicking the radio within your inventory 
 * Self interacting via ACE 
 
@@ -79,7 +79,7 @@ The AN/PRC-148 is a long range intra-squad level radio carried and used most com
 Left clicking the Power & Volume knob will increase the 148's volume by 10% to a maximum of 100% while right clicking will decrease the volume by 10% to a minimum of 0% which will turn off the radio.
 
 ## Channel Frequency Control
-To change the 148's group channel you left click the Channel Selector to cycle up to the next callsign (Alpha > Bravo > Charlie) and right clicking will cycle down to the next callsign (Charlie > Bravo > Alpha). There are 12 channels that Synixe uses, channels 1-7 are Alpha > Foxtrot while channels 8-12 are special channels such as ATC, Medical, Command, etc.
+To change the 148's channel you left click the Channel Selector to cycle up to the next callsign (Alpha > Bravo > Charlie) and right clicking will cycle down to the next callsign (Charlie > Bravo > Alpha). There are 12 channels that Synixe uses, channels 1-7 are Alpha > Foxtrot while channels 8-12 are special channels such as ATC, Medical, Command, etc.
 
 <hr/>
 
@@ -89,7 +89,7 @@ The AN/PRC-117 (or its vehicle configuration AN/VRC-103) is a long range command
 ## Volume Control
 Clicking on the `+` on the radio will increase the volume of the 117F by 10% to a maximum of 100%, clicking on the `-` will decrease the volume by 10% to a minimum of 20%. 
 ## Channel Frequency Control
-To change the 177F's group channel you click on the `+` in the Channel Selector to switch up to the next callsign (Alpha > Bravo > Charlie) and clicking `-` on the channel selector will switch down to the next callsign (Charlie > Bravo > Alpha). There are 12 channels that Synixe uses, channels 1-7 are Alpha > Foxtrot while channels 8-12 are special channels such as ATC, Intel, Command, etc.
+To change the 177F's channel you click on the `+` in the Channel Selector to switch up to the next callsign (Alpha > Bravo > Charlie) and clicking `-` on the channel selector will switch down to the next callsign (Charlie > Bravo > Alpha). There are 12 channels that Synixe uses, channels 1-7 are Alpha > Foxtrot while channels 8-12 are special channels such as ATC, Intel, Command, etc.
 
 <hr/>
 
