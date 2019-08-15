@@ -3,7 +3,7 @@
 
 # Section 1 - Name
 
-The name of this organization shall be Synixe Gaming Community, in shorthand and hereby refered to as Synixe.
+The name of this organization shall be "Synixe Gaming Community", in shorthand and hereby refered to as "Synixe".
 
 <hr/>
 
