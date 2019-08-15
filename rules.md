@@ -49,6 +49,7 @@ Reposting content that you have previously posted is not allowed and may be remo
 1. Any deliberate action or attempt to enhance your game play or to give yourself an unfair advantage will not be tolerated and will result in a minimum of removal from the current game.
 2. Any modification of game files or additional modifications outside of what is required by Synixe will not be tolerated and will result in a minimum of removal from the current game.
 3. Any attempt to gain access to administrative tools will result in an immediate ban.
+4. Use of external communication platforms (Steam Message, Discord) is considered a violation of Rule 4.1 unless authorized by an Executive member or a game master.
 
 <hr/>
 
