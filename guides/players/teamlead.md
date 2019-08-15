@@ -19,4 +19,4 @@ One of the team leader's main jobs is to ensure their team is effective in the c
 
 A basic rule to follow while organizing your team is <b>"One is none, two is one"</b>. Everyone in your team should have a buddy, this reduces the chances that your team will be unable to accomplish a task and lowers the frequency of people going down without their location being known.
 
-!> When an odd number of members is present in a team the TL should still have a buddy
+!> When an odd number of members are present in a team the TL should still have a buddy
