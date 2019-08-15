@@ -3,21 +3,21 @@
 
 # Section 1 - Name
 
-The name of this organization shall be "Synixe Gaming Community", in shorthand and hereby refered to as "Synixe".
+The name of this organization shall be "Synixe Gaming Community", in shorthand and hereby referred to as "Synixe".
 
 <hr/>
 
 # Section 2 - Purpose
 
 The purpose of Synixe is to provide a relaxed, fair and organized environment for an online commmunity.
-This constitution shall be used to keep the organization commited to that goal and shall not be changed in such a way that compromises that core value.
+This constitution shall be used to keep the organization committed to that goal and shall not be changed in such a way that compromises that core value.
 
 <hr/>
 
 # Section 3 - Definitions
 
 #### Rule 
-An explicit regulation or principale governing the conduct of the organization's members.
+An explicit regulation or principal governing the conduct of the organization's members.
 
 #### Resolution
 A proposed action needing authorization from the Executive Board.
@@ -28,7 +28,7 @@ A proposed action needing authorization from the Executive Board.
 
 ## 4.1 - Gaining Membership
 Synixe shall permit membership to anyone that wishes to join that is at least 15 years of age. 
-New members between the ages of 15-17 inclusive will be subject to a 3 month probabtion period during which they can be removed if they are not able to integrate into the community smoothly.
+New members between the ages of 15-17 inclusive will be subject to a 3 month probation period during which they can be removed if they are not able to integrate into the community smoothly.
 There is no limit to the number of members the organization can have and there is no limit in the duration a person may be a member of the organization.
 Upon a person joining Synixe they are given the designation of "New" in the organization's system for designations.
 
@@ -42,8 +42,8 @@ A member may leave Synixe at anytime unless they are a member of the Executive.
 ## 4.4 - Removal
 
 ### 4.4.1 - Inactivity
-After a period of 30 days after receiving the designation of "Inactive" a member is to be sent an offer of re-engagment by a member of the Executive Board.
-After 15 days of either no response or a decline to the offer of re-engagment the person's status as a member of the organization is terminated.
+After a period of 30 days after receiving the designation of "Inactive" a member is to be sent an offer of re-engagement by a member of the Executive Board.
+After 15 days of either no response or a decline to the offer of re-engagement the person's status as a member of the organization is terminated.
 
 ### 4.4.2 - 3 Strike
 Breaching a rule or engaging in disruptive actions follows a 3 strike system.
@@ -103,7 +103,7 @@ Managers may serve their position indefinitely.
 Managers can resign at any time. They can be asked to continue serving their position for a maximum period of 14 days.
 
 ### 5.3.4 - Removal
-A Manager may be removed from their position by a two thirds vote of the Executive Board during a session if they have failed to complete the responsibilites of their position.
+A Manager may be removed from their position by a two thirds vote of the Executive Board during a session if they have failed to complete the responsibilities of their position.
 
 ## 5.4 - Moderators
 
@@ -118,7 +118,7 @@ Moderators may serve their position indefinitely. Moderators will be asked every
 Moderators can resign at any time. They can be asked to continue serving their position for a maximum period of 14 days.
 
 ### 5.4.4 - Removal
-A Moderator may be removed from their position by a two thirds vote of the Executive Board during a session if they have failed to complete the responsibilites of their position.
+A Moderator may be removed from their position by a two thirds vote of the Executive Board during a session if they have failed to complete the responsibilities of their position.
 
 ## 5.5 - Committees
 Committees are groups of organization members that are mandated with the investigation of a specific aspect of the organization or can be mandated with the oversight or management of an aspect of the organization. Committees can be one of two types:
@@ -156,7 +156,7 @@ In order for a meeting to take place a majority of the members of the Executive 
 ## 6.4 - Structure
 1. A record of all Executive Board members present and absent shall be taken.
 2. A record of all non-executive members present shall be taken.
-3. A count of all members in the organization shall be takn.
+3. A count of all members in the organization shall be taken.
 4. A financial report will be presented by the Director or member of The Executive Board appointed by The Director.
 5. Tabled proposals, unresolved discussions, or nominations from the previous meeting will be presented.
 6. The Heads of Committees present any reports.
@@ -171,7 +171,7 @@ Once a proposal or constitutional amendment is announced
 4. Members of the Executive Board will vote on the proposal.
 
 ## 6.5 - Constitutional Amendments
-A constitutional amendment is any propsed change to this document.
+A constitutional amendment is any proposed change to this document.
 Voting on confirming Constitutional Amendments can occur when all Managers and two thirds of the Executive Board are present at a meeting. A two thirds majority vote of the Executive Board is required to pass any Constitutional Amendment. If passed the amendment will come into effect 3 days after receiving approval from the Director of the Executive Board.
 
 ## 6.6 - Proposals

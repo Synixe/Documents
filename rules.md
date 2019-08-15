@@ -23,7 +23,7 @@
 Any content shared on any medium with the community is subject to moderation at the discretion of the Moderators. Repeated offenses result in a one week minimum ban from the applicable channels.
 
 ## 3.1 - Inappropriate Content
-Content will be considered innappropriate at the discretion of the Moderators and will be removed if it meets any of the following criteria.
+Content will be considered inappropriate at the discretion of the Moderators and will be removed if it meets any of the following criteria.
 1. Pornographic in nature.
 2. Pedophilic in nature.
 3. Containing gore, horror, cruelty, or violence.
@@ -33,14 +33,14 @@ Content will be considered innappropriate at the discretion of the Moderators an
 Any form of content or interaction considered harassment at the discretion of the Moderators will not be tolerated.
 This includes but is not limited to:
 1. Spam messaging.
-2. Content, symbols, or behaviours of a sexual or sexually suggestive nature.
-3. Discrimination of race, ethnicity, religon, gender, or sexual orientation.
+2. Content, symbols, or behaviors of a sexual or sexually suggestive nature.
+3. Discrimination of race, ethnicity, religion, gender, or sexual orientation.
 
 ## 3.3 - Reposting
 Reposting content that you have previously posted is not allowed and may be removed by a moderator.
 
 ## 3.4 - Use of Memes
-1. #memes is to be used as a place to post media content that is unrelated to converstations happening in other channels.
+1. #memes is to be used as a place to post media content that is unrelated to conversations happening in other channels.
 2. Repeatedly posting content in violation of any rule under Section 3 will result in a minimum one week ban from #memes or the applicable channel.
 
 <hr/>
@@ -70,12 +70,12 @@ Intentional Team Killing is not tolerated at any time.
 ## 6.2 - Making a Travesty
 Making a Travesty of a mission is any action that ruins the enjoyment of the mission for others.
 
-Making a Travesty of a mission will result in a kick from the mission on the first occurance and a ban from the mission the second time. If this happens during three seperate missions you will be permanently banned.
+Making a Travesty of a mission will result in a kick from the mission on the first occurrence and a ban from the mission the second time. If this happens during three separate missions you will be permanently banned.
 
 <hr/>
 
 # Rule 7 - Mission Making
-All missions used in sanctioned events must pass all Dynulo automated checks and meet one of the folling criteria:
+All missions used in sanctioned events must pass all Dynulo automated checks and meet one of the following criteria:
 1. Made by a MissionMaker in Synixe
 2. Made by a MakerInTraing and approved in a review by a MissionMaker
 3. Not made a member of Synixe but has been reviewed, tested, and approved by a Manager
@@ -89,7 +89,7 @@ There can only be a single campaign or persistent mission at one time. Executive
 ## 7.3 - Training
 Any member may become a MakerInTraining after participating in at least 3 sanctioned events. They will be given access to the mission making resources and MissionMakers will help them learn how Synixe makes our missions.
 
-Once the Executive Board feel a MakerInTraining is ready to host a sanctioned event they can create a mission. It must be reviewed by atleast one MissionMaker and approved by a member of the Executive Board that is a MissionMaker before being hosted. At least 2 members of the Executive Board must be present at the event.
+Once the Executive Board feel a MakerInTraining is ready to host a sanctioned event they can create a mission. It must be reviewed by at least one MissionMaker and approved by a member of the Executive Board that is a MissionMaker before being hosted. At least 2 members of the Executive Board must be present at the event.
 
 After hosting a mission, a majority vote is required in a meeting of the Executive Board on whether the MakerInTraining will join the mission making team. If denied, they will remain in training and do another mission. If accepted, the Executive Board will announce the succession.
 
@@ -99,7 +99,7 @@ After hosting a mission, a majority vote is required in a meeting of the Executi
 1. Names can not be offensive in any way and are subject to Rule 4
 2. Names should be clear and easy to read.
 3. Names can not exceed 4 syllables.
-4. Names should be easily pronouncable so people can easily address you on voice comms.
+4. Names should be easily pronounceable so people can easily address you on voice comms.
 5. Names must be unique within Synixe.
 6. Names must be consistent across all platforms. This helps people learn who is who.
 7. Names should include an obvious 1 or 2 syllable shorter name within them.
