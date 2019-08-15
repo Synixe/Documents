@@ -2,7 +2,7 @@
 ## Basic Principle
 Each person is responsible for the 10m around them.  
 Teams are responsible for the 100m around them.  
-Squads are responsibile for the 1km around them.  
+Squads are responsible for the 1km around them.  
 
 Teams / Squads should avoid entering the area of another element
 

@@ -1,7 +1,7 @@
 # Rule of 3
 
 ## Basic Principle
-Each persion should only be in charge of three other people or elements.  
+Each person should only be in charge of three other people or elements.  
 SL has a max of 3 teams  
 TL has a max of 3 rifleman  
 ## Reasoning
