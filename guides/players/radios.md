@@ -32,7 +32,7 @@ ACRE has a built in proximity speech slider allowing you to set how far you can 
 |  AN/PRC-117F |    10-20km   |     Horizon     |
 
 ## Terrain & Object Interference 
-When operating radios behind hills and in urban enviorments with many objects radio strength and range will be reduced compared to if you were operating the radio in open terrian or on top of a building.
+When operating radios behind hills and in urban environments with many objects radio strength and range will be reduced compared to if you were operating the radio in open terrain or on top of a building.
 
 # Controls
 Pressing `capslock` will transmit through the AN/PRC-343.  
@@ -77,7 +77,7 @@ To change the 148's group channel you left click the Channel Selector to cycle u
 <hr/>
 
 # AN/PRC-117F, AN/VRC-103
-The AN/PRC-117 (or its vehicle configuration AN/VRC-103) is a long range command level radio carried in a backpack (or premounted in vehicles) used by Squad Leaders, Command and Support elements to communicate with one another. 
+The AN/PRC-117 (or its vehicle configuration AN/VRC-103) is a long range command level radio carried in a backpack (or pre-mounted in vehicles) used by Squad Leaders, Command and Support elements to communicate with one another. 
 ![Diagram](img/117f.png) 
 ## Volume Control
 Clicking on the `+` on the radio will increase the volume of the 117F by 10% to a maximum of 100%, clicking on the `-` will decrease the volume by 10% to a minimum of 20%. 
