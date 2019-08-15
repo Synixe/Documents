@@ -1,11 +1,11 @@
 # ACRE Radios
-This page will go over the basic handling and operation of ACRE radios for the Synixe gaming community.
+This page will go over the handling and operation of ACRE radios for the Synixe Gaming Community.
 
 <hr/>
 
 # Mechanics
 ## Proximity Speech 
-ACRE has a built in proximity speech slider allowing you to determine how far you can be heard from. The system has five volume states and starts in the middle state by default (3/5).
+ACRE has a built in proximity speech slider allowing you to set how far you can be heard. The system has five volume states which starts in the middle state by default (3/5).
 
 | Volume state | Loud (m) | Quiet (m) | Barely audible (m)
 | --- | --- | --- | --- 
@@ -15,7 +15,7 @@ ACRE has a built in proximity speech slider allowing you to determine how far yo
 | 4/5 | 12 | 45 | 145
 | 5/5 | 15 | 55 | 195 
 
-<div style="float: left; width: 34%;">Holding down <code>tab</code> whilst scroll wheeling up or down will adjust your volume state. Scrolling up (up the slider) will make your voice travel further whilst scrolling down will make your voice quieter and travel shorter distances (down the slider). Once you've set your volume state you can let go <code>tab</code> until you want to change it again.</div> 
+<div style="float: left; width: 34%;">Holding down <code>tab</code> while scrolling up or down will adjust your volume state by 1. Scrolling up will make your voice louder to be heard from further while scrolling down will make your voice quieter as shown on the table. Once you set your volume state you can release <code>tab</code>.</div> 
 
 <div style="float: right; width: 65%">
     <img src="/guides/players/img/acre_slider.gif"/>
@@ -32,53 +32,57 @@ ACRE has a built in proximity speech slider allowing you to determine how far yo
 |  AN/PRC-117F |    10-20km   |     Horizon     |
 
 ## Terrain & Object Interference 
-When operating radios behind hills and in urban enviorments with many objects, radio strength and range will be significantly reduced compared to if the operator was in open terrian or on top of a building.
+When operating radios behind hills and in urban enviorments with many objects radio strength and range will be reduced compared to if you were operating the radio in open terrian or on top of a building.
 
 # Controls
-Pressing `capslock` will start transmitting through the radio (indicated by a click sound) until you let go of `capslock`.
+Pressing `capslock` will transmit through the AN/PRC-343.  
+Pressing `ctrl + capslock` will transmit through the AN/PRC-148.  
+Pressing `alt + capslock` will transmit through the AN/PRC-177F.
 
-When interacting with any of the ACRE radios there are two different ways to bring up their interface to change the frequency:
+When using the radio a click sound will be played to indicate you are transmitting and in the bottom right of the screen an image will appear showing what channel you are transmitting to. To finish your transmission let go of `capslock`.
+
+When interacting with any of the ACRE radios there are two different ways to bring up their interface to change the channel / frequency:
 * Double clicking the radio within your inventory 
 * Self interacting via ACE 
 
 <hr/>
 
 # AN/PRC-343 Usage
-The AN/PRC-343 is a short range intra-team personal level radio commonly carried and used by everyone within a team to communicate with one another. 
+The AN/PRC-343 is a short range intra-team personal level radio commonly carried and used by members within a team to communicate with one another. 
 ![Diagram](img/343.png)
 ## Volume Control
-Left clicking the volume knob increases the 343's volume by 10% to a maximum of 100% whilst right clicking will decrease by 10% to a minimum of 20% volume.
+Left clicking the volume knob increases the 343's volume by 20% to a maximum of 100% while right clicking will decrease the volume by 10% to a minimum of 0% which will turn off the radio.
 
 ## Channel & Block Control
-To change the 343s's channel you left click or right click the channel knob to increase or decrease the channel by 1 up to 16 channels.
+To change the 343's channel you left click or right click the channel knob to increase or decrease the channel by 1 up to 16 channels.
 
 To change the block channel number you'll need to open the 343's Handle (as shown in the photo)
 ![Diagram](img/343_deattached.png)
-<div style="float: left; width: 60%;">When the Handle has opened, you left click or right click the Channel Block knob (blue dot) to increase or decrease the channel block's by 1 up to 16 blocks. Once you've set your block number, reattach the Handle (else radio will no longer function) and transmit to check what frequency's you are transmitting on.</div>
+<div style="float: left; width: 60%;">When the Handle is opened you left click or right click the Channel Block knob (blue dot) to increase or decrease the channel block's by 1 for up to 16 blocks. Once you've set your block number reattach the Handle (otherwise radio will cease to function) and transmit to check what frequency you are transmitting on.</div>
 <div style="float: right;">
-    <img src="https://cdn.discordapp.com/attachments/386271418305871873/566164053463007232/107410_20190412193116_1.png"/>
+    <img src="/guides/players/img/notification.png"/>
 </div>
 <div style="clear: both;"></div>
 <hr/>
 
 # AN/PRC-148 Usage
-The AN/PRC-148 is a long range intra-squad level radio carried and used most commonly by Team Leaders to communicate with one another.
+The AN/PRC-148 is a long range intra-squad level radio carried and used most commonly by [Team Leaders](/guides/players/teamlead.md) to communicate with one another.
 ![Diagram](img/148.png)
 ## Volume Control
-Left clicking the Power & Volume knob will increase the 148's volume by 10% to a maximum of 100% whilst right clicking will decrease the volume by 10% to a minimum of 0% in which it will power off the radio.
+Left clicking the Power & Volume knob will increase the 148's volume by 10% to a maximum of 100% while right clicking will decrease the volume by 10% to a minimum of 0% which will turn off the radio.
 
 ## Channel Frequency Control
-To change the 148's group channel you left click the Channel Selector to cycle up to the next callsign (Alpha > Bravo > Charlie) and right clicking will cycle down to the next callsign (Charlie > Bravo > Alpha). There are 12 channels that Synixe uses, channels 1-7 are Alpha > Foxtrot whilst channels 8-12 are special channels such as ATC, Medical, Command, etc.
+To change the 148's group channel you left click the Channel Selector to cycle up to the next callsign (Alpha > Bravo > Charlie) and right clicking will cycle down to the next callsign (Charlie > Bravo > Alpha). There are 12 channels that Synixe uses, channels 1-7 are Alpha > Foxtrot while channels 8-12 are special channels such as ATC, Medical, Command, etc.
 
 <hr/>
 
 # AN/PRC-117F, AN/VRC-103
-The AN/PRC-117 (or its vehicle configuration, AN/VRC-103) is a long range command level radio carried in a backpack (or premounted in vehicles) used by Squad Leaders, Command and Support elements to communicate with one another. 
+The AN/PRC-117 (or its vehicle configuration AN/VRC-103) is a long range command level radio carried in a backpack (or premounted in vehicles) used by Squad Leaders, Command and Support elements to communicate with one another. 
 ![Diagram](img/117f.png) 
 ## Volume Control
-Clicking on the `+` in Volume will increase the volume of the 117F by 10% to a maximum of 100%, clicking on the `-` will decrease the volume by 10% to a minimum of 20%. 
+Clicking on the `+` on the radio will increase the volume of the 117F by 10% to a maximum of 100%, clicking on the `-` will decrease the volume by 10% to a minimum of 20%. 
 ## Channel Frequency Control
-To change the 177F's group channel you click on the `+` in the Channel Selector to cycle up to the next callsign (Alpha > Bravo > Charlie) and clicking the `-` will cycle down to the next callsign (Charlie > Bravo > Alpha). There are 12 channels that Synixe uses, channels 1-7 are Alpha > Foxtrot whilst channels 8-12 are special channels such as ATC, Medical, Command, etc.
+To change the 177F's group channel you click on the `+` in the Channel Selector to switch up to the next callsign (Alpha > Bravo > Charlie) and clicking `-` on the channel selector will switch down to the next callsign (Charlie > Bravo > Alpha). There are 12 channels that Synixe uses, channels 1-7 are Alpha > Foxtrot while channels 8-12 are special channels such as ATC, Intel, Command, etc.
 
 <hr/>
 
