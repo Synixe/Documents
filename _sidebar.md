@@ -5,6 +5,7 @@
   * [Mod Review](/committees/modreview.md)
   * [Documentation](/committees/documentation.md)
 * Guides
+  * [Contributing](/style.md)
   * Mission Making
   * Players
     * [Radios](/guides/players/radios.md)
