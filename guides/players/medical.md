@@ -1,3 +1,0 @@
-# ACE Medical
-
-s
