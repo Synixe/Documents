@@ -49,6 +49,13 @@ When interacting with any of the ACRE radios there are two different ways to bri
 
 # AN/PRC-343 Usage
 The AN/PRC-343 is a short range intra-team personal level radio commonly carried and used by members within a team to communicate with one another. 
+<details>
+<summary><b>Usage Demonstration (Video)</b></summary>
+
+<iframe width="540" height="540" src="https://www.youtube.com/embed/tRoBLWNabCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</details>
+
 ![Diagram](img/343.png)
 ## Volume Control
 Left clicking the volume knob increases the 343's volume by 20% to a maximum of 100% while right clicking will decrease the volume by 10% to a minimum of 0% which will turn off the radio.
