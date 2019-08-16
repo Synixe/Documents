@@ -15,7 +15,7 @@
 
 2. The TeamSpeak server IP address shall not be shared until required.
 
-3. All servers hosted by Synixe are for the exclusive use of members currently holding the designation of Active or have held the designation of Active in the previous 30 days unless access is granted by a member of the Executive Board.
+3. All servers hosted by Synixe are for the exclusive use of members currently holding the designation of "Active" or have held the designation of "Active" in the previous 30 days unless access is granted by a member of the Executive Board.
 
 <hr/>
 

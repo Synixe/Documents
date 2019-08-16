@@ -6,7 +6,7 @@ The documentation committee is responsible for the prescriptive documentation of
 <hr/>
 
 # Structure
-Members of the committee are apointed by the Executive Board. Any member that has the designation of active can be appointed to the committee. Members of the committee should be removed by a member of the Executive Board if they are not actively participating in the committee's activities or at the request of the committee head.
+Members of the committee are appointed by the Executive Board. Any member that has the designation of "Active" can be appointed to the committee. Members of the committee should be removed by a member of the Executive Board if they are not actively participating in the committee's activities or at the request of the committee head.
 
 <hr/>
 
