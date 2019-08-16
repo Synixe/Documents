@@ -6,7 +6,7 @@ The mod review committee will investigate proposed changes, removals, or additio
 <hr/>
 
 # Structure
-The Mod Review Committee is a standing committee with a single head and a non-specific sized body. Members of the committee are appointed by the Executive Board. Any member that has the designation of active can be appointed to the committee. Members of the committee should be removed by a member of the Executive Board if they are not actively participating in the committee's activities or at the request of the committee head.
+The Mod Review Committee is a standing committee with a single head and a non-specific sized body. Members of the committee are appointed by the Executive Board. Any member that has the designation of "Active" can be appointed to the committee. Members of the committee should be removed by a member of the Executive Board if they are not actively participating in the committee's activities or at the request of the committee head.
 
 <hr/>
 
