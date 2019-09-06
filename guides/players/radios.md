@@ -7,15 +7,15 @@ This page will go over the handling and operation of ACRE radios for the Synixe 
 ## Proximity Speech 
 ACRE has a built in proximity speech slider allowing you to set how far you can be heard. The system has five volume states which starts in the middle state by default (3/5).
 
-| Volume state | Loud (m) | Quiet (m) | Barely audible (m)
-| --- | --- | --- | --- 
-| 1/5 | 1 | 2 | 13
-| 2/5 | 3 | 15 | 55
-| 3/5 | 8 | 30 | 100
-| 4/5 | 12 | 45 | 145
-| 5/5 | 15 | 55 | 195 
+| Volume state | Loud (m) | Quiet (m) | Barely audible (m) |
+|--------------|----------|-----------|--------------------|
+| 1/5          | 1        | 2         | 13                 |
+| 2/5          | 3        | 15        | 55                 |
+| 3/5          | 8        | 30        | 100                |
+| 4/5          | 12       | 45        | 145                |
+| 5/5          | 15       | 55        | 195                |
 
-<div style="float: left; width: 34%;">Holding down <code>tab</code> while scrolling up or down will adjust your volume state by 1. Scrolling up will make your voice louder while scrolling down will make your voice quieter as shown on the table. Once you've set your volume state you can release <code>tab</code>.</div> 
+<div style="float: left; width: 34%;">Holding down <code>tab</code> while scrolling up or down will adjust your volume state by 1. Scrolling up will make your voice louder while scrolling down will make your voice quieter as shown on the table above. Once you've set your volume state you can release <code>tab</code>.</div> 
 
 <div style="float: right; width: 65%">
     <img src="/guides/players/img/acre_slider.gif"/>
@@ -25,21 +25,21 @@ ACRE has a built in proximity speech slider allowing you to set how far you can 
 <hr/>
 
 ## Radio Ranges
-|     Radio    |  City Range  |  Perfect Range  |
-| :----------: | :----------: | :-------------: |
-|  AN/PRC-343  |     450m     |      850m       |
-|  AN/PRC-148  |     3-5km    |      5-7km      |
-|  AN/PRC-117F |    10-20km   |     Horizon     |
+| Radio       | City Range | Perfect Range |
+|-------------|------------|---------------|
+| AN/PRC-343  | 450m       | 850m          |
+| AN/PRC-148  | 3-5km      | 5-7km         |
+| AN/PRC-117F | 10-20km    | Horizon       |
 
 ## Terrain & Object Interference 
-When operating radios behind hills and in urban environments with many objects radio strength and range will be reduced compared to if you were operating a radio in open terrain or on top of a building.
+When operating a radio in urban environments with many objects, radio strength and range will be reduced compared to if you were operating a radio in open terrain or on the roof of a building. This effect is shown on the table above with "City Range" and "Perfect Range".
 
 # Controls
 Pressing `capslock` will transmit through the AN/PRC-343.  
 Pressing `ctrl + capslock` will transmit through the AN/PRC-148.  
 Pressing `alt + capslock` will transmit through the AN/PRC-177F.
 
-When using the radio a click sound will be played to indicate you are transmitting and in the bottom right of the screen an image will appear showing what channel you are transmitting to. To finish your transmission let go of `capslock`.
+When using the radio a click sound will be played to indicate you are transmitting and in the bottom right of the screen an image will appear showing what channel you are transmitting to. To end your transmission release `capslock`.
 
 When interacting with ACRE radios there are two ways to bring up their interface to change the channel / frequency:
 * Double clicking the radio within your inventory 
@@ -48,7 +48,7 @@ When interacting with ACRE radios there are two ways to bring up their interface
 <hr/>
 
 # AN/PRC-343 Usage
-The AN/PRC-343 is a short range intra-team level radio commonly carried and used by members within a team to communicate with one another. 
+The AN/PRC-343 is a basic short range rifleman radio carried and used by members within a team to communicate with one another. 
 <details>
 <summary><b>Usage Demonstration (Video)</b></summary>
 
@@ -73,7 +73,7 @@ To change the block channel you'll need to detach the 343's Handle (as shown in 
 <hr/>
 
 # AN/PRC-148 Usage
-The AN/PRC-148 is a long range intra-squad level radio carried and used most commonly by [Team Leaders](/guides/players/teamlead.md) to communicate with one another.
+The AN/PRC-148 is a long range team radio carried and used most by [Team Leaders](/guides/players/teamlead.md) to communicate with one another.
 ![Diagram](img/148.png)
 ## Volume Control
 Left clicking the Power & Volume knob will increase the 148's volume by 10% to a maximum of 100% while right clicking will decrease the volume by 10% to a minimum of 0% which will turn off the radio.
@@ -84,7 +84,7 @@ To change the 148's channel you left click the Channel Selector to cycle up to t
 <hr/>
 
 # AN/PRC-117F, AN/VRC-103
-The AN/PRC-117 (or its vehicle configuration AN/VRC-103) is a long range command level radio carried in a backpack (or pre-mounted in vehicles) used by Squad Leaders, Command and Support elements to communicate with one another. 
+The AN/PRC-117 (or its vehicle configuration AN/VRC-103) is a long range command radio carried in a backpack (or pre-mounted in vehicles) used by Squad Leaders, Command and Support elements to communicate with one another. 
 ![Diagram](img/117f.png) 
 ## Volume Control
 Clicking on the `+` on the radio will increase the volume of the 117F by 10% to a maximum of 100%, clicking on the `-` will decrease the volume by 10% to a minimum of 20%. 
