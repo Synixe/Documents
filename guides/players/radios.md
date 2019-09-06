@@ -39,7 +39,7 @@ Pressing `capslock` will transmit through the AN/PRC-343.
 Pressing `ctrl + capslock` will transmit through the AN/PRC-148.  
 Pressing `alt + capslock` will transmit through the AN/PRC-177F.
 
-When using the radio a click sound will be played to indicate you are transmitting and in the bottom right of the screen an image will appear showing what channel you are transmitting to. To finish your transmission let go of `capslock`.
+When using the radio a click sound will be played to indicate you are transmitting and in the bottom right of the screen an image will appear showing what channel you are transmitting to. To end your transmission release `capslock`.
 
 When interacting with ACRE radios there are two ways to bring up their interface to change the channel / frequency:
 * Double clicking the radio within your inventory 
