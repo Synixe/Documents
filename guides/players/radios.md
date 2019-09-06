@@ -48,7 +48,7 @@ When interacting with ACRE radios there are two ways to bring up their interface
 <hr/>
 
 # AN/PRC-343 Usage
-The AN/PRC-343 is a short range intra-team level radio commonly carried and used by members within a team to communicate with one another. 
+The AN/PRC-343 is a short range intrateam radio commonly carried and used by members within a team to communicate with one another. 
 <details>
 <summary><b>Usage Demonstration (Video)</b></summary>
 
@@ -73,7 +73,7 @@ To change the block channel you'll need to detach the 343's Handle (as shown in 
 <hr/>
 
 # AN/PRC-148 Usage
-The AN/PRC-148 is a long range intra-squad level radio carried and used most commonly by [Team Leaders](/guides/players/teamlead.md) to communicate with one another.
+The AN/PRC-148 is a long range intersquad radio carried and used most commonly by [Team Leaders](/guides/players/teamlead.md) to communicate with one another.
 ![Diagram](img/148.png)
 ## Volume Control
 Left clicking the Power & Volume knob will increase the 148's volume by 10% to a maximum of 100% while right clicking will decrease the volume by 10% to a minimum of 0% which will turn off the radio.
@@ -84,7 +84,7 @@ To change the 148's channel you left click the Channel Selector to cycle up to t
 <hr/>
 
 # AN/PRC-117F, AN/VRC-103
-The AN/PRC-117 (or its vehicle configuration AN/VRC-103) is a long range command level radio carried in a backpack (or pre-mounted in vehicles) used by Squad Leaders, Command and Support elements to communicate with one another. 
+The AN/PRC-117 (or its vehicle configuration AN/VRC-103) is a long range command radio carried in a backpack (or pre-mounted in vehicles) used by Squad Leaders, Command and Support elements to communicate with one another. 
 ![Diagram](img/117f.png) 
 ## Volume Control
 Clicking on the `+` on the radio will increase the volume of the 117F by 10% to a maximum of 100%, clicking on the `-` will decrease the volume by 10% to a minimum of 20%. 
