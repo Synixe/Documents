@@ -48,7 +48,7 @@ When interacting with ACRE radios there are two ways to bring up their interface
 <hr/>
 
 # AN/PRC-343 Usage
-The AN/PRC-343 is a short range intrateam radio commonly carried and used by members within a team to communicate with one another. 
+The AN/PRC-343 is a basic short range rifleman radio carried and used by members within a team to communicate with one another. 
 <details>
 <summary><b>Usage Demonstration (Video)</b></summary>
 
@@ -73,7 +73,7 @@ To change the block channel you'll need to detach the 343's Handle (as shown in 
 <hr/>
 
 # AN/PRC-148 Usage
-The AN/PRC-148 is a long range intersquad radio carried and used most commonly by [Team Leaders](/guides/players/teamlead.md) to communicate with one another.
+The AN/PRC-148 is a long range team radio carried and used most by [Team Leaders](/guides/players/teamlead.md) to communicate with one another.
 ![Diagram](img/148.png)
 ## Volume Control
 Left clicking the Power & Volume knob will increase the 148's volume by 10% to a maximum of 100% while right clicking will decrease the volume by 10% to a minimum of 0% which will turn off the radio.
