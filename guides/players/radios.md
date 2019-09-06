@@ -7,13 +7,13 @@ This page will go over the handling and operation of ACRE radios for the Synixe 
 ## Proximity Speech 
 ACRE has a built in proximity speech slider allowing you to set how far you can be heard. The system has five volume states which starts in the middle state by default (3/5).
 
-| Volume state | Loud (m) | Quiet (m) | Barely audible (m)
-| --- | --- | --- | --- 
-| 1/5 | 1 | 2 | 13
-| 2/5 | 3 | 15 | 55
-| 3/5 | 8 | 30 | 100
-| 4/5 | 12 | 45 | 145
-| 5/5 | 15 | 55 | 195 
+| Volume state | Loud (m) | Quiet (m) | Barely audible (m) |
+|--------------|----------|-----------|--------------------|
+| 1/5          | 1        | 2         | 13                 |
+| 2/5          | 3        | 15        | 55                 |
+| 3/5          | 8        | 30        | 100                |
+| 4/5          | 12       | 45        | 145                |
+| 5/5          | 15       | 55        | 195                |
 
 <div style="float: left; width: 34%;">Holding down <code>tab</code> while scrolling up or down will adjust your volume state by 1. Scrolling up will make your voice louder while scrolling down will make your voice quieter as shown on the table. Once you've set your volume state you can release <code>tab</code>.</div> 
 
@@ -25,11 +25,11 @@ ACRE has a built in proximity speech slider allowing you to set how far you can 
 <hr/>
 
 ## Radio Ranges
-|     Radio    |  City Range  |  Perfect Range  |
-| :----------: | :----------: | :-------------: |
-|  AN/PRC-343  |     450m     |      850m       |
-|  AN/PRC-148  |     3-5km    |      5-7km      |
-|  AN/PRC-117F |    10-20km   |     Horizon     |
+| Radio       | City Range | Perfect Range |
+|-------------|------------|---------------|
+| AN/PRC-343  | 450m       | 850m          |
+| AN/PRC-148  | 3-5km      | 5-7km         |
+| AN/PRC-117F | 10-20km    | Horizon       |
 
 ## Terrain & Object Interference 
 When operating radios behind hills and in urban environments with many objects radio strength and range will be reduced compared to if you were operating a radio in open terrain or on top of a building.
