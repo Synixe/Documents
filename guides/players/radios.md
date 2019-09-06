@@ -15,7 +15,7 @@ ACRE has a built in proximity speech slider allowing you to set how far you can 
 | 4/5          | 12       | 45        | 145                |
 | 5/5          | 15       | 55        | 195                |
 
-<div style="float: left; width: 34%;">Holding down <code>tab</code> while scrolling up or down will adjust your volume state by 1. Scrolling up will make your voice louder while scrolling down will make your voice quieter as shown on the table. Once you've set your volume state you can release <code>tab</code>.</div> 
+<div style="float: left; width: 34%;">Holding down <code>tab</code> while scrolling up or down will adjust your volume state by 1. Scrolling up will make your voice louder while scrolling down will make your voice quieter as shown on the table above. Once you've set your volume state you can release <code>tab</code>.</div> 
 
 <div style="float: right; width: 65%">
     <img src="/guides/players/img/acre_slider.gif"/>
@@ -32,7 +32,7 @@ ACRE has a built in proximity speech slider allowing you to set how far you can 
 | AN/PRC-117F | 10-20km    | Horizon       |
 
 ## Terrain & Object Interference 
-When operating radios behind hills and in urban environments with many objects radio strength and range will be reduced compared to if you were operating a radio in open terrain or on top of a building.
+When operating a radio in urban environments with many objects, radio strength and range will be reduced compared to if you were operating a radio in open terrain or on the roof of a building. This effect is shown on the table above with "City Range" and "Perfect Range".
 
 # Controls
 Pressing `capslock` will transmit through the AN/PRC-343.  
