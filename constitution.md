@@ -186,7 +186,7 @@ Voting on proposals will take place at meeting. A majority vote of the Executive
 
 # Section 7 - Treasury
 
-## 7.1 Reasurer
+## 7.1 Treasurer
 The treasurer is a position elected by the executive board. While the position is vacant the Director or a member of the Executive appointed by the Director will execute the responsibilities of the treasurer.
 
 # 7.2 Use of Funds
