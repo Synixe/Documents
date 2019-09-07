@@ -12,4 +12,4 @@ Flashy Moves
 
 ## Committee Heads
 **Mod Review**: Echird  
-**Documentation**: \[vacant\]
+**Documentation**: Gabe
