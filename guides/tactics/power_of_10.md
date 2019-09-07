@@ -13,4 +13,4 @@ It prevents friendly fire incidents because teams / squads know what is in their
 
 A squad with 4 teams clears buildings in a town
 ![Overview](img/10_overview.jpg)
-![Closeup](img/10_closeup.jpg)
+![Closeup](img/10_close_up.jpg)
