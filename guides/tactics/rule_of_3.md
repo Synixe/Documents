@@ -7,4 +7,4 @@ TL has a max of 3 rifleman
 ## Reasoning
 This structure splits the workload of organizing a squad over multiple people with easy to manage sizes. It also allows people to try playing as TL without having a large number of players to manage.
 
-![Diagram](img/rule_of_3.png)
+![Diagram](img/ruleof3.png)
