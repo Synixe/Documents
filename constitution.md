@@ -189,5 +189,5 @@ Voting on proposals will take place at meeting. A majority vote of the Executive
 ## 7.1 Treasurer
 The treasurer is a position elected by the executive board. While the position is vacant the Director or a member of the Executive appointed by the Director will execute the responsibilities of the treasurer.
 
-# 7.2 Use of Funds
+## 7.2 Use of Funds
 The treasury can make any payment under the value of $30 USD. Any payments above the stated value must be approved by a majority of the Executive.
