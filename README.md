@@ -8,6 +8,7 @@ BEAST
 ### Moderators
 nameless  
 PaC
+Flashy Moves
 
 ## Committee Heads
 **Mod Review**: Echird  
