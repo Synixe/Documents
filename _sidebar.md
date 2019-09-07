@@ -12,5 +12,5 @@
     * [Medical](/guides/players/medical.md)
     * [Team Leading](/guides/players/teamlead.md)
   * Tactics
-    * [Rule of 3](/guides/tactics/ruleof3.md)
-    * [Power of 10](/guides/tactics/powerof10.md)
+    * [Rule of 3](/guides/tactics/rule_of_3.md)
+    * [Power of 10](/guides/tactics/power_of_10.md)
