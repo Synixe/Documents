@@ -11,4 +11,4 @@ PaC
 
 ## Committee Heads
 **Mod Review**: Echird  
-**Documentation**: Gabe
+**Documentation**: BEAST
