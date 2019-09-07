@@ -181,3 +181,13 @@ Voting on proposals will take place at meeting. A majority vote of the Executive
 * Any Executive Member absent will be recorded and will not be counted in the vote.
 * Any Executive Member can abstain from any vote and will not be counted.
 * Any Executive Member can motion to table a vote. A two thirds majority vote must pass to table.
+
+<hr/>
+
+# Section 7 - Treasury
+
+## 7.1 Reasurer
+The treasurer is a position elected by the executive board. While the position is vacant the Director or a member of the Executive appointed by the Director will execute the responsibilities of the treasurer.
+
+# 7.2 Use of Funds
+The treasury can make any payment under the value of $30 USD. Any payments above the stated value must be approved by a majority of the Executive.
