@@ -10,6 +10,10 @@ nameless
 PaC  
 Flashy Moves
 
+## Support Staff
+
+**Treasurer**: \[vacant\]
+
 ## Committee Heads
 **Mod Review**: Echird  
 **Documentation**: Gabe
