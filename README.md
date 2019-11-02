@@ -19,5 +19,5 @@ Flashy Moves
 
 ## Committee Heads
 
-**Mod Review**: Echird  
+**Mod Review**: \[vacant\]    
 **Documentation**: \[vacant\]
