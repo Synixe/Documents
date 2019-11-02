@@ -20,4 +20,4 @@ Flashy Moves
 ## Committee Heads
 
 **Mod Review**: \[vacant\]
-**Documentation**: Gabe
+**Documentation**: \[vacant\]
