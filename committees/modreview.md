@@ -18,4 +18,4 @@ Members of the committee should find mods in the Arma 3 community that will enha
 Members of the committee should review mods under consideration by the committee, noting gameplay and technical aspects. If a mod affects a specific aspect of gameplay (Flying, Zeus, Long Range Firing) a member of the organization that uses that aspect of gameplay should be consulted.
 
 ## Voting
-Once a mod has been reviewed by one third of the committee it can be voted on at a committee meeting or an organization meeting. Any meeting of the committee where voting takes place must be recorded and submitted with minutes to the Executive Board at the next organization meeting.
+Once a mod has been reviewed by one-third of the committee it can be voted on at a committee meeting or an organization meeting. Any meeting of the committee where voting takes place must be recorded and submitted with minutes to the Executive Board at the next organization meeting.
