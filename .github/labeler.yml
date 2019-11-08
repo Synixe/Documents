@@ -1,5 +1,5 @@
 area/constitution: constitution.md
-area/rules: rueles.md
+area/rules: rules.md
 area/committees: committees/**/*
 area/personel: index.html
 area/guides: guides/**/*
