@@ -8,9 +8,9 @@ This guide will only cover the use of NATO equipment.
 
 This guide will not cover the basics of flight, and only covers operations.
 
-## HMD
+## HUD
 
-![Diagram](img/hmd.png)
+![Diagram](img/hud.png)
 
 1. Roll Indicator
 2. Flight Information
@@ -73,15 +73,15 @@ This guide will not cover the basics of flight, and only covers operations.
 
 ### Unguided (Propelled)
 
-The estimated location of impact and time of flight in seconds are indicated in the HMD.
+The estimated location of impact and time of flight in seconds are indicated in the HUD.
 
 ![Diagram](img/unguided_estimate.png)
 
 ### Unguided
 
-The estimated location of impact and the time of flight in seconds are indicated in the HMD.
+The estimated location of impact and the time of flight in seconds are indicated in the HUD.
 
-![Diagram](img/bomb_hmd.png)
+![Diagram](img/bomb_hud.png)
 
 This is obviously a bad idea when using a bomb, as it requires the pilot to be low or diving. The estimated location can also be seen from the underbelly camera marked by a small crosshair.
 
