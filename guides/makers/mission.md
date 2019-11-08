@@ -16,16 +16,16 @@ Every mission requires a name, author, and a description.
 Names can be found under `Attributes > General | Presentation > Title`  
 Valid characters are: [A-z 0-9 - /] and space.
 
-Author can be found under `Attributes > General | Presentation > Title`
+Author can be found under `Attributes > General | Presentation > Author`
 
 Description can be found under `Attributes > General | Overview > Text`
 
 ## Unit Setup
 
 Every unit requires
+- A role description
 - Not marked as Player
 - Marked as Playable
-- A role description
 
 ![Diagram](img/mission_unit_info.png)
 
