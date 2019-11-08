@@ -6,7 +6,7 @@ This guide will only cover the use of NATO equipment.
 
 # Basics
 
-This guide will not cover the basics of flight, and only covers operations.
+This guide will not cover the basics of flight, and will only cover operations.
 
 ## HUD
 
@@ -83,11 +83,11 @@ The estimated location of impact and the time of flight in seconds are indicated
 
 ![Diagram](img/bomb_hud.png)
 
-This is obviously a bad idea when using a bomb, as it requires the pilot to be low or diving. The estimated location can also be seen from the underbelly camera marked by a small crosshair.
+This is generally a bad idea when using a bomb, as it requires the pilot to be low or diving. The estimated location can also be seen from the underbelly camera marked by a small crosshair.
 
 ![Diagram](img/bomb_crosshair.png)
 
-If the location of impact is obstrcuted the crosshair will be overlayed with a cross.
+If the location of impact is obstructed the crosshair will be overlayed with a cross.
 
 ![Diagram](img/unguided_obstructed.png)
 
@@ -103,7 +103,7 @@ Targets must be hot on IR (engine on) in order to be locked. While being locked 
 
 ### Hellfire
 
-While using a hellfire compatible missile, addition information is displayed under the weapon info panel.
+While using a hellfire compatible missile, additional information is displayed under the weapon info panel.
 
 ![Diagram](img/hellfire_nolock.png)
 
