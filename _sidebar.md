@@ -6,7 +6,8 @@
   * [Documentation](/committees/documentation.md)
 * Guides
   * [Contributing](/style.md)
-  * Mission Making
+  * Zeus / Missions
+    * [Mission Guide](/guides/makers/mission.md)
   * Players
     * [Radios](/guides/players/radios.md)
     * [Medical](/guides/players/medical.md)
