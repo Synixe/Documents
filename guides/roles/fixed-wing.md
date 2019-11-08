@@ -1,4 +1,4 @@
-# Fixed Wing Pilots
+# Fixed-wing Pilots
 
 This guide will only cover the use of NATO equipment.
 
@@ -87,7 +87,7 @@ This is generally a bad idea when using a bomb, as it requires the pilot to be l
 
 ![Diagram](img/bomb_crosshair.png)
 
-If the location of impact is obstructed the crosshair will be overlayed with a cross.
+If the location of impact is obstructed the crosshair will be overlaid with a cross.
 
 ![Diagram](img/unguided_obstructed.png)
 
