@@ -26,6 +26,10 @@ This guide will not cover the basics of flight, and only covers operations.
 12. Remaining Ammo
 13. Heading
 
+## Sensor Panel
+
+![Diagram](img/sensor.png)
+
 ## Pylons
 
 ### Air-to-Air
@@ -119,3 +123,7 @@ The hellfire missiles have 4 attack profiles.
 LOBL is only available when the LOBL status indicator is lit red.
 
 ![Diagram](img/hellfire_lock.png)
+
+### Radar
+
+Radar functions similarly to Laser / IR Guided (Propelled), but requires passive radar or active radar to be enabled. Active radar is toggled with `<Control> + R`
