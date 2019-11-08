@@ -102,7 +102,7 @@ The leader of each group must have `@` followed by their group's pretty name. Th
 
 <span style="color:green">Valid</span>
 ```
-@Group-A      [Group-A]
-@Group-B      [Group-B]
-@Group-C      [Group-C]
+@Group-A      [Group-A-1]
+@Group-B      [Group-B-1]
+@Group-C      [Group-C-1]
 ```
