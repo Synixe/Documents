@@ -67,13 +67,13 @@ This guide will not cover the basics of flight, and only covers operations.
 
 ## Targeting
 
-## Unguided (Propelled)
+### Unguided (Propelled)
 
 The estimated location of impact and time of flight in seconds are indicated in the HMD.
 
 ![Diagram](img/unguided_estimate.png)
 
-## Unguided
+### Unguided
 
 The estimated location of impact and the time of flight in seconds are indicated in the HMD.
 
