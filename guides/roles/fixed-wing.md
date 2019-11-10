@@ -73,13 +73,13 @@ This guide will not cover the basics of flight, and will only cover operations.
 
 ### Unguided (Propelled)
 
-The estimated location of impact and time of flight in seconds are indicated in the HUD.
+The estimated location of impact and distance in KM are indicated in the HUD.
 
 ![Diagram](img/unguided_estimate.png)
 
 ### Unguided
 
-The estimated location of impact and the time of flight in seconds are indicated in the HUD.
+The estimated location of impact and distance in KM are indicated in the HUD.
 
 ![Diagram](img/bomb_hud.png)
 
