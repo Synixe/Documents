@@ -7,7 +7,7 @@ This document assumes the reader is already familiar with [Driving Roles](guides
 ## Operating
 
 ### Speed
-There are 3 main speeds in a convoy: *Full* - 80 KM/h  |  *Half* - 40 KM/h  |  *City* - 25 KM/h  
+There are 3 main speeds in a convoy: *Full* - 80 km/h  |  *Half* - 40 km/h  |  *City* - 25 km/h  
 
 ### Commander
 The commander of the convoy is the navigator of the lead vehicle. Once the vehicles are in motion the lead vehicle sets the speed and the route in situations where a diversion is required.
