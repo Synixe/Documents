@@ -12,19 +12,19 @@ Anti-Tank (AT) missiles require a thermal target to lock on to, and will seek th
 4. Wait for lock tone and `SEEK`
 5. Fire with `Left Click`
 
-![Diagram](img/titan_locking.png)
+![Diagram](img/titan_locking.png)  
 Missile Locking
 
-![Diagram](img/titan_locked.png)
+![Diagram](img/titan_locked.png)  
 Missile Locked
 
 ### Anti-Personnel
 
 Anti-Personnel (AP) missiles are fly-by-wire. They are fired without a locked target and continue towards the center of the view finder.
 
-1. Center target in view finder
+1. Center target in viewfinder
 2. Fire with `Left Click`
-3. Track target with view finder
+3. Track target with viewfinder
 4. Observe impact
 
 ## Attack Profile
