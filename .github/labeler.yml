@@ -1,7 +1,7 @@
 area/constitution: constitution.md
 area/rules: rules.md
 area/committees: committees/**/*
-area/personel: index.html
+area/personnel: index.html
 area/guides: guides/**/*
 
 type/image: *.png
