@@ -15,17 +15,17 @@ Drivers, Navigators, and Gunners are expected to be familiar with [Convoy Tactic
 ### Unarmored Transport
 Vehicles that are used for high speed, high capacity, or long-range transportation. They should never be expected to be used in combat and are rarely equipped with any defenses.
 
-*Examples* Prowler, HEMTT, Civilian Vehicles
+*Examples* Prowler, Land Rover, HEMTT, Civilian Vehicles
 
 ### Armored Transport
 Vehicles that are used for high mobility light combat transportation. Usually equipped with some mounted weapon for defense.
 
-*Examples* HMMWV, Hunter, Strider
+*Examples* HMMWV, Jackal
 
 ### Mine Resistant Ambush Protected (MRAP)
 Large well-protected vehicles that offer the most safety during combat, at the cost of slower and louder operation that is easier to detect.
 
-*Examples* RG-31, Titan
+*Examples* RG-31, M-ATV
 
 ## Vehicle Roles
 
