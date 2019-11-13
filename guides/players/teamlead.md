@@ -1,6 +1,4 @@
-# Team Lead 
-
-This guide is WIP and not final.
+# Team Lead Guide
 
 ## Required Reading
 Before reading this document, team leaders should already be familiar with the [Radios](/guides/players/radios.md), [Rule of 3](/guides/tactics/ruleof3.md), and [Power of 10](/guides/tactics/powerof10.md).
