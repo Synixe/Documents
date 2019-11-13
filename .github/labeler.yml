@@ -3,3 +3,6 @@ area/rules: rules.md
 area/committees: committees/**/*
 area/personel: index.html
 area/guides: guides/**/*
+
+type/image: */**/*.png
+type/markdown: */**/*.md
