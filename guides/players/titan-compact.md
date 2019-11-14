@@ -6,8 +6,8 @@
 
 Anti-Tank (AT) missiles require a thermal target to lock on to, and will seek the target after launch.
 
-1. Enter thermal view with `N`
-2. Center target in view finder
+1. Switch to thermal view with `N`
+2. Center target in viewfinder, zoom in with `+ [NUM]` if target is far
 3. Hold `Tab`
 4. Wait for lock tone and `SEEK`
 5. Fire with `Left Click`
