@@ -1,5 +1,5 @@
 # Titan MPRL Compact
-The Titan Compact is a shouldered fire-and-forget missle launcher capable of firing Anti-Tank (AT) and Anti-Personnel (AP) muntions.
+The Titan Compact is a shouldered fire-and-forget missle launcher capable of firing Anti-Tank (AT) and Anti-Personnel (AP) munitions.
 
 ## Missile Type
 
