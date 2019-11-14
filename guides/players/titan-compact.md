@@ -1,4 +1,5 @@
 # Titan MPRL Compact
+The Titan Compact is a shouldered fire-and-forget missle launcher capable of firing Anti-Tank (AT) and Anti-Personnel (AP) muntions.
 
 ## Missile Type
 
@@ -23,7 +24,7 @@ Missile Locked
 Anti-Personnel (AP) missiles are fly-by-wire. They are fired without a locked target and continue towards the center of the view finder.
 
 1. Center target in viewfinder
-2. Fire with `Left Click`
+2. Fire with `Left Click`, zoom in with `+ [NUM]` if target is far
 3. Track target with viewfinder
 4. Observe impact
 
