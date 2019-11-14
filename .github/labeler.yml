@@ -1,0 +1,9 @@
+area/constitution: constitution.md
+area/rules: rules.md
+area/committees: committees/**/*
+area/personnel: index.html
+area/guides: guides/**/*
+area/ci: .github/**/*
+
+type/image: ./**/*.png
+type/markdown: ./**/*.md

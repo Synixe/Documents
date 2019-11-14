@@ -20,7 +20,7 @@
 <hr/>
 
 # Rule 3 - Content
-Any content shared on any medium with the community is subject to moderation at the discretion of the Moderators. Repeated offenses result in a one week minimum ban from the applicable channels.
+Any content shared on any medium with the community is subject to moderation at the discretion of the Moderators. Repeated offenses result in a one-week minimum ban from the applicable channels.
 
 ## 3.1 - Inappropriate Content
 Content will be considered inappropriate at the discretion of the Moderators and will be removed if it meets any of the following criteria.
@@ -41,15 +41,15 @@ Reposting content that you have previously posted is not allowed and may be remo
 
 ## 3.4 - Use of Memes
 1. #memes is to be used as a place to post media content that is unrelated to conversations happening in other channels.
-2. Repeatedly posting content in violation of any rule under Section 3 will result in a minimum one week ban from #memes or the applicable channel.
+2. Repeatedly posting content in violation of any rule under Section 3 will result in a minimum one-week ban from #memes or the applicable channel.
 
 <hr/>
 
 # Rule 4 - Cheating and Exploiting
-1. Any deliberate action or attempt to enhance your game play or to give yourself an unfair advantage will not be tolerated and will result in a minimum of removal from the current game.
+1. Any deliberate action or attempt to enhance your gameplay or to give yourself an unfair advantage will not be tolerated and will result in a minimum of removal from the current game.
 2. Any modification of game files or additional modifications outside of what is required by Synixe will not be tolerated and will result in a minimum of removal from the current game.
 3. Any attempt to gain access to administrative tools will result in an immediate ban.
-4. Use of external communication platforms (Steam Message, Discord) is considered a violation of Rule 4.1 unless authorized by an Executive member or a game master.
+4. The use of external communication platforms (Steam, Discord) is considered a violation of Rule 4.1 unless authorized by an Executive member or a game master.
 
 <hr/>
 
@@ -82,7 +82,7 @@ All missions used in sanctioned events must pass all Dynulo automated checks and
 3. Not made a member of Synixe but has been reviewed, tested, and approved by a Manager
 
 ## 7.1 - Events
-Timeslots for sanctioned events can be reserved in the `#missionmakers` channel. If an event is not posted 72 hours prior to the timeslot it is open for anyone to use.
+Timeslots for sanctioned events can be reserved in the `#missionmakers` channel. If an event is not posted 72 hours before the timeslot it is open for anyone to use.
 
 ## 7.2 - Campaigns
 There can only be a single campaign or persistent mission at one time. Executive Board approval is required to run a campaign. The primary Friday timeslot can not be used for campaigns.
