@@ -1,4 +1,4 @@
-# Titan AT
+# Titan MPRL Compact
 
 ## Missile Type
 
