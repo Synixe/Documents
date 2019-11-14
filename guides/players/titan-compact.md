@@ -32,10 +32,11 @@ Anti-Personnel (AP) missiles are fly-by-wire. They are fired without a locked ta
 
 Attack profiles can be switched by hitting `F`
 
+### Top
+
+The missile will fly higher and hit the top of the target.
+
 ### Direct
 
 The missile will fly directly to the target.
 
-### Top
-
-The missile will fly higher and hit the top of the target.
