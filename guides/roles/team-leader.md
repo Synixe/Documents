@@ -3,7 +3,7 @@
 This guide is WIP and not final.
 
 ## Required Reading
-Before reading this document, team leaders should already be familiar with the [Radios](/guides/players/radios.md), [Rule of 3](/guides/tactics/ruleof3.md), and [Power of 10](/guides/tactics/powerof10.md).
+Before reading this document, team leaders should already be familiar with the [Radios](/guides/players/radios.md), [Rule of 3](/guides/tactics/rule_of_3.md), and [Power of 10](/guides/tactics/power_of_10.md).
 
 ## Main Responsibilities
 - Keep SL informed on team status, enemy forces, intel gathered
