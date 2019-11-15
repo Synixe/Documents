@@ -39,7 +39,7 @@ ACRE has a built in proximity speech slider allowing you to set how far you can 
 
 When operating a radio in urban environments with many objects, radio strength and range will be reduced compared to if you were operating a radio in open terrain or on the roof of a building. This effect is shown on the table above with "City Range" and "Perfect Range".
 
-# Controls
+## Controls
 
 Holding `capslock` will transmit through the AN/PRC-343.  
 Holding `ctrl + capslock` will transmit through the AN/PRC-148.  
