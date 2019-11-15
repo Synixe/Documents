@@ -49,6 +49,8 @@
 **Fixed-wing Pilot**  
 *Instructors*
 `Brett`
+*Qualified*
+`Gabriel`
 
 **Rotary Pilot**  
 *Instructors*
