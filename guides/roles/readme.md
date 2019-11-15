@@ -18,6 +18,9 @@
 **Driver**  
 *Instructors*
 `Brett`
+`BEAST`
+*Qualified*
+`Gabe`
 
 **Medic**  
 *Instructors*
