@@ -18,7 +18,7 @@
 **Driver**  
 *Instructors*
 `Brett`
-`BEAST`
+`BEAST`  
 *Qualified*
 `Gabe`
 
@@ -51,7 +51,7 @@
 
 **Fixed-wing Pilot**  
 *Instructors*
-`Brett`
+`Brett`  
 *Qualified*
 `Gabriel`
 
