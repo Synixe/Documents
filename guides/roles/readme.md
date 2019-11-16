@@ -21,6 +21,9 @@
 `BEAST`  
 *Qualified*
 `Gabe`
+`elGato`
+`nameless`
+`Andrew`
 
 **Medic**  
 *Instructors*
