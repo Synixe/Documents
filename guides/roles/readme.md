@@ -56,7 +56,8 @@
 *Instructors*
 `Brett`  
 *Qualified*
-`Gabriel`
+`Gabe`
+`arsey`
 
 **Rotary Pilot**  
 *Instructors*
