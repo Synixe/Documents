@@ -1,15 +1,22 @@
-# Medical Rewrite
+# Medical
 
 ## Rifleman
 
 ### UI
 
-- Colors on the paper doll are now different:
-  - Light yellow to dark red -> bleeding wound, darker means faster bleed rate.
-  - Dark blue -> bandaged wound.
-  - Light blue -> stitched.
-- Wounds are prefixed to indicated if they're bandaged [B] or stitched [S].
-- In the radial / selection menu limbs with tourniquets appear with a circled icon instead of the normal one.
+When treating yourself or another, it is recommended to use the Medical Menu accessible by pressing `H` instead of using the interaction menu.
+
+![Diagram](img/medical_menu.png)
+
+Colors and icons on the paper doll represent:
+
+ - Light yellow to dark red: bleeding wound(s), darker means faster bleed rate
+ - Dark blue: bandaged wound(s)
+ - Light blue: stitched
+ - Red bone: limb is fractured
+ - Blue line: limb has a tourniquet applied temporaryily stopping bleeding  
+
+Wounds are prefixed to indicated if they're bandaged [B] or stitched [S] under Overview in the Medical Menu.
 
 ### Fractures
 
@@ -21,19 +28,11 @@ Fractured limbs have a unique icon on the paper doll and a specific set of sound
 
 ### Damage
 
-- Changes have been made to the way damage is handled, only a direct hit to the torso or head are directly fatal.
-- Shots to limbs will induce bleeding and later cardiac arrest.
-- Due to changes to vitals, bleeding requires a renewed attention or you will run the risk of entering cardiac arrest.
+A direct hit to the head or torso (heart) without proper protection equipment are directly fatal and will send you straight to the spectator screen for the rest of the operation.
 
 ### Misc
 
-- Pain effects have been reworked, they cause less visual strain.
-- You treat others faster than yourself, medics have a bonus to their treating speed.
-- Carry animations are now faster.
-- New pain sounds.
-- New injury sounds.
-- Unconsciousness is now preceded by a rag-doll.
-- Unconsciousness visual effects have been changed.
+You treat others faster than yourself, medics treat faster overall.
 
 ## Medics
 
@@ -55,7 +54,6 @@ Once a patient enters cardiac arrest your best bet is having multiple people wor
 
 ### Other
 
-- Atropine is gone
 - You can give IVs to yourself.
 - You can use surgical kits on yourself.
-- Stitching is now possible with open wounds still present, it will only stitch the bandaged wounds.
+
