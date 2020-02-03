@@ -38,7 +38,7 @@ A direct hit to the head or torso (heart) without proper protection equipment is
 - Severe amounts of pain and blood loss can cause the heart rate to reach extremely high values and make the patient run the risk of entering cardiac arrest
 - In these scenarios Adenosine can be used to reduce the heart rate while open wounds are treated, Morphine could also be used but it has a much longer time in system than Adenosine
 
-With bleeding being more severe; cardiac arrest scenarios are common, learning to treat them accordingly will be necessary.
+With bleeding being more severe, cardiac arrest scenarios are common. Learning to treat them accordingly will be necessary.
 
 **The first signs of trauma induced cardiac arrest are:**
 
