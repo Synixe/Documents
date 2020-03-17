@@ -128,7 +128,7 @@ Committees are groups of organization members that are mandated with the investi
   Temporary committee to investigate a proposed change to the organization
 
 ### 5.5.1 - Committee Heads
-The head of a committee is a position elected by the Executive Board tasked with the management of the committee and delegation of assignments. The committee head will be responsible for chairing any committee meetings and presenting reports at organization meetings.
+The head of a committee is a position elected by the Executive Board tasked with the management of the committee and delegation of assignments. The committee head will be responsible for chairing any committee meetings and presenting reports at organization meetings. If a committee head is unable to attending a meeting they must designate someone to provide the report in their place.
 
 ### 5.5.2 - Committee Constitution
 Every committee should have a constitution outlining:
