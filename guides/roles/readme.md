@@ -13,6 +13,8 @@
 `Echird`
 `PaC`
 `Andrew`
+`R3ign`
+`Gabe`
 
 ### Support Roles
 
@@ -32,6 +34,7 @@
 `nameless`  
 *Qualified*
 `elGato`
+`Andrew`
 
 **EOD**
 *Coming Soon*
